@@ -9,7 +9,7 @@
   "author": "Halif",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^6.0.8"
+    "electron": "^9.1.0"
   },
   "dependencies": {
     "electron-packager": "^14.0.6"
